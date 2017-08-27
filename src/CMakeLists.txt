@@ -22,7 +22,7 @@ endfunction()
 
 include_directories(".")
 
-cg_add_program("asteroid-genearator"
+cg_add_program("asteroid-generator"
     main.cpp
     cg_camera.cpp
     cg_config.cpp
