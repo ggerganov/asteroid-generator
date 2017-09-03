@@ -24,3 +24,5 @@ addons:
   apt:
     packages:
         - freeglut3-dev
+        - libxi-dev
+        - libxmu-dev
